@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Proyecto Basico React </h1>
+      <h1>Proyecto Basico React prueba </h1>
       <p>Contador: {contador}</p>
       <button onClick={() => setContador(contador + 1)}>
         Incrementar
